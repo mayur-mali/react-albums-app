@@ -24,7 +24,7 @@ export default function Navbar() {
           </div>
         </Link>
         <div>
-          <Link to="/addalbum" className="flex text-xl font-bold items-center">
+          <Link to="/add-album" className="flex text-xl font-bold items-center">
             Add Album
             <svg
               xmlns="http://www.w3.org/2000/svg"
